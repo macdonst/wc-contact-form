@@ -12,6 +12,7 @@
   "devDependencies": {
     "@enhance/cli": "^1.0.3",
     "@enhance/types": "^0.6.0",
+    "arc-plugin-tailwindcss": "^0.3.1",
     "eslint": "^8.30.0"
   },
   "eslintConfig": {
